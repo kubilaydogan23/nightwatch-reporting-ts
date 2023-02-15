@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# idea
+.idea/
+
+# Test Output
+tests_output/
+allure-report/
+allure-results/
+logs/
+*.log
+
+package-lock.json
+.DS_Store
